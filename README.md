@@ -2,10 +2,6 @@
 
 This project showcases a simple HTML and CSS implementation of a patterned background using radial gradients. The background features a vibrant color scheme of soft orange and dark blue shades, designed to demonstrate CSS capabilities.
 
-## Live Demo
-
-You can view the live demo of this project [here](https://16alves02.github.io/pattern-background/).
-
 ## Table of Contents
 
 - [Installation](#installation)
